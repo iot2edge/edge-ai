@@ -2,7 +2,7 @@
 - [Hardware](#hardware)
 - [Software](#software)
 - [Other Interesting Resources](#other-interesting-resources)
-- [Review of my Experience with Edge AI](#review-of-my-experience-with-edge-ai)
+- [My Experience with Edge AI](#my-experience-with-edge-ai)
 
 
 ### Hardware
@@ -66,7 +66,7 @@
 - [TinyML Papers and Projects](https://github.com/gigwegbe/tinyml-papers-and-projects) - Compilation of the most recent paper's and projects in the TinyML/EdgeAI field.
 - [MinUn](https://github.com/ShikharJ/MinUn) - Accurate ML Inference on Microcontrollers.
 
-### Review of My Experience with Edge AI
+### My Experience with Edge AI
 
 Throughout my career as a Senior Firmware Engineer, I have immersed myself in Edge AI, working on innovative projects that leverage artificial intelligence at the edge of networks. My journey began with a strong foundation in ARM-based development, where I honed my skills on platforms like Qualcomm, NXP, and Rockchip. 
 

@@ -31,7 +31,7 @@ By following these steps and maintaining a curious mindset, new enthusiasts can 
 - [Contributing](#other-interesting-resources)
 - [License](#license)
 
-# Hardware
+### Hardware
 - [OpenMV](http://docs.openmv.io) - A camera that runs with MicroPython on ARM Cortex M6/M7 and great support for computer vision algorithms. Now with [support for Tensorflow Lite too](https://openmv.io/blogs/news/tensorflow-lite-and-person-detection).
 - [JeVois](http://jevois.org/) - A TensorFlow-enabled camera module.
 - [Edge TPU](https://cloud.google.com/edge-tpu/) - Google’s purpose-built ASIC designed to run inference at the edge.
@@ -62,7 +62,7 @@ By following these steps and maintaining a curious mindset, new enthusiasts can 
 - [Beagleboard BeagleV](https://beagleboard.org/beaglev) - Open Source RISC-V-based Linux board that includes a Neural Network Engine.
 - [Syntiant TinyML](https://www.syntiant.com/tinyml) - Development kit based on the Syntiant NDP101 Neural Decision Processor and a SAMD21 Cortex-M0+.
 
-# Software
+### Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
 - [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) - Port of TF Lite for microcontrollers and other devices with only kilobytes of memory. Born from a [merge with uTensor](https://os.mbed.com/blog/entry/uTensor-and-Tensor-Flow-Announcement/).
 - [Embedded Learning Library (ELL)](https://github.com/Microsoft/ELL) - Microsoft's library to deploy intelligent machine-learned models onto resource constrained platforms and small single-board computers.
@@ -82,7 +82,7 @@ By following these steps and maintaining a curious mindset, new enthusiasts can 
 - [AIfES](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino) - platform-independent and standalone AI software framework optimized for embedded systems.
 - [onnx2c](https://github.com/kraiskil/onnx2c) - ONNX to C compiler targeting "Tiny ML".
 
-# Other interesting resources
+### Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
 - [Hardware benchmark for edge AI on cubesats - Open Source Cubesat Workshop 2018](https://github.com/crespum/oscw18-edge-ai)
 - [Why Machine Learning on The Edge?](https://towardsdatascience.com/why-machine-learning-on-the-edge-92fac32105e6)

@@ -1,4 +1,4 @@
-### 🤿Review of My Experience with Edge AI
+## 🤿 Review of My Experience with Edge AI
 
 Throughout my career as a Senior Firmware Engineer, I have immersed myself in Edge AI, working on innovative projects that leverage artificial intelligence at the edge of networks. My journey began with a strong foundation in ARM-based development, where I honed my skills on platforms like Qualcomm, NXP, and Rockchip. 
 
